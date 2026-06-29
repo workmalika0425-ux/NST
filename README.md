@@ -1,1 +1,1 @@
-# ai-nst-project
+# nst-project
